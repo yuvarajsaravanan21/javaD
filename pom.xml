@@ -31,7 +31,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>com.demo.main</mainClass>
+                        <mainClass>com.demo.Main</mainClass>
                     </manifest>
                 </archive>
             </configuration>
